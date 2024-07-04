@@ -2,4 +2,5 @@
 1) Настроить локальный сервер(способ для Windows)
      ·Панель управления - Программы и компоненты - Включение или отключение компонентов Windows - Службы IIS (по умолчанию галочки нет, поставить)
 2) Разархивировать содержимое проекта (папку project15) в директорию C:\inetpub\wwwroot
-3) Открыть браузер и в поисковой строке ввести http://localhost/project15/index.html или http://localhost/project15/
+3) Добавить файлы passports.json и operations.json
+4) Открыть браузер и в поисковой строке ввести http://localhost/project15/index.html или http://localhost/project15/
